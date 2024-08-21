@@ -1,4 +1,4 @@
-** Team Boss Bunch - Database Systems for Analytics - Project **
+# Team Boss Bunch - Database Systems for Analytics - Project
 
 
 1. Operational Application (Folder)
