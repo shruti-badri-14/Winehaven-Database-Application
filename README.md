@@ -1,4 +1,4 @@
-# Team Boss Bunch - Database Systems for Analytics - Project
+# Team Boss Bunch - Database Systems for Analytics - Winehaven E-Commerce Database Application (operational & analytical)
 
 
 1. Operational Application (Folder)
