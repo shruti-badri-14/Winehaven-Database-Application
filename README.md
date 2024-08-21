@@ -4,15 +4,15 @@
 1. Operational Application (Folder)
    - Contains all the operational application files and any other required files.
    - Contains a comprehensive README with instructions to run the file.
-   - The report also has links to screen recordings of the demos of our operational app.
+   - The report and readme for each app also has links to screen recordings of the demos of our operational app.
 2. Analytical Application (Folder)
    - Contains all the analytical application files and any other required files.
    - Contains a comprehensive README with instructions to run the file.
-   - The report also has links to screen recordings of the demo of our analytical app.
+   - The report and readme for each app also has links to screen recordings of the demo of our analytical app.
 3. BossBunch_Dump.sql
    - Dump of our team db and wh from the server.
-   - Note: there were some permission errors when we tried to export them. (Just in case you try on your local with the dump)
-   - All project work throughout was done on the server you provided us and is still available on the server.
+   - Note: there might be permission errors while exporting it. (Just in case you try on your local with the dump)
+   - All project work throughout was done on a university provided server (now unavailable - utilise the dump from the repo instead)
    - You can connect to our team db and wh with our config files, and run our applications.
 4. BossBunch_Report.pdf
    - Final report of our project.
