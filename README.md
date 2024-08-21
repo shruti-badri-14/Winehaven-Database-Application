@@ -4,11 +4,11 @@
 1. Operational Application (Folder)
    - Contains all the operational application files and any other required files.
    - Contains a comprehensive README with instructions to run the file.
-   - This README also has links to screen recordings of the demos of our operational app.
+   - The report also has links to screen recordings of the demos of our operational app.
 2. Analytical Application (Folder)
    - Contains all the analytical application files and any other required files.
    - Contains a comprehensive README with instructions to run the file.
-   - This README also has links to screen recordings of the demo of our analytical app.
+   - The report also has links to screen recordings of the demo of our analytical app.
 3. BossBunch_Dump.sql
    - Dump of our team db and wh from the server.
    - Note: there were some permission errors when we tried to export them. (Just in case you try on your local with the dump)
